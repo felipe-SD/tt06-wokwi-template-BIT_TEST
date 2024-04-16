@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This test consist in compare two bits determinating wich one is bigger or if bot are equal.
 
 ## How to test
 
-Explain how to use your project
+To testo the project just insert 2 input bits (A and B) and then make a verification with the possible inputs
+00,01,10,11, you should check the three outputs, fist 1 when both are equal, and second and thrid when any other input is bigger.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Use leds to check the output
+Used input with any desired devices.
